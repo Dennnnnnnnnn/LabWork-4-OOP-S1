@@ -1,0 +1,12 @@
+Initial data
+This object collection is empty
+Day, when all students attended lectures was not found
+
+Sorted students data
+This object collection is empty
+
+
+Students that need to be expelled
+This object collection is empty
+New object collection (without students, who skipped a lot of lectures): 
+This object collection is empty

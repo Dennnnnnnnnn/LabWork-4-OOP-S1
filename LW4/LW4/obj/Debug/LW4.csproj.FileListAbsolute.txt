@@ -1,0 +1,8 @@
+C:\Users\dsunt\Desktop\C#\LW4\LW4\bin\Debug\L4_3.txt
+C:\Users\dsunt\Desktop\C#\LW4\LW4\bin\Debug\LW4.exe.config
+C:\Users\dsunt\Desktop\C#\LW4\LW4\bin\Debug\LW4.exe
+C:\Users\dsunt\Desktop\C#\LW4\LW4\bin\Debug\LW4.pdb
+C:\Users\dsunt\Desktop\C#\LW4\LW4\obj\Debug\LW4.csproj.AssemblyReference.cache
+C:\Users\dsunt\Desktop\C#\LW4\LW4\obj\Debug\LW4.csproj.CoreCompileInputs.cache
+C:\Users\dsunt\Desktop\C#\LW4\LW4\obj\Debug\LW4.exe
+C:\Users\dsunt\Desktop\C#\LW4\LW4\obj\Debug\LW4.pdb
